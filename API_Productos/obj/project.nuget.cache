@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynDjboVBM8YOY9tk2RDPm9n4gWe0ScTRESvLZHbW9uABA3qKOj1e2ppU2dai0tta5JuGoI38JNnyvgiIms7K4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Esteban Larco\\source\\repos\\API_Productos\\API_Productos\\API_Productos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
